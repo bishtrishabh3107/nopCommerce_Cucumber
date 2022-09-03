@@ -1,0 +1,301 @@
+2022-09-01 22:14:51,937 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-01 22:14:51,956 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-01 22:14:54,336 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-01 22:14:54,760 - nopCommerce -INFO - ******** Started Login *********
+2022-09-01 22:15:05,154 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-01 22:15:05,160 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-01 22:15:05,324 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-01 22:15:07,451 - nopCommerce -INFO - ******** Click on add new button *********
+2022-09-01 22:15:11,957 - nopCommerce -INFO - ******** Navigated to Add a new customer page *********
+2022-09-01 22:15:11,970 - nopCommerce -INFO - ******** Enter customer info *********
+2022-09-01 22:15:13,347 - nopCommerce -INFO - ******** Click on save button *********
+2022-09-01 22:15:14,666 - nopCommerce -INFO - ******** Confirmation message is displayed *********
+2022-09-01 22:15:15,821 - nopCommerce -INFO - ******** Closing Browser *********
+2022-09-01 22:15:17,560 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-01 22:15:17,575 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-01 22:15:20,038 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-01 22:15:20,407 - nopCommerce -INFO - ******** Started Login *********
+2022-09-01 22:15:27,021 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-01 22:15:27,026 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-01 22:15:27,241 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-01 22:15:30,436 - nopCommerce -INFO - ******** Enter customer email *********
+2022-09-01 22:15:31,269 - nopCommerce -INFO - ******** click search *********
+2022-09-01 22:15:33,477 - nopCommerce -INFO - ******** Seaching customer by email *********
+2022-09-01 22:15:35,812 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-01 22:15:35,815 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-01 22:15:38,217 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-01 22:15:38,609 - nopCommerce -INFO - ******** Started Login *********
+2022-09-01 22:15:50,324 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-01 22:15:50,328 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-01 22:15:50,635 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-01 22:15:53,998 - nopCommerce -INFO - ******** Enter customer firstname *********
+2022-09-01 22:15:55,010 - nopCommerce -INFO - ******** Enter customer lastname *********
+2022-09-01 22:15:55,089 - nopCommerce -INFO - ******** click search *********
+2022-09-01 22:15:57,216 - nopCommerce -INFO - ******** Seaching customer by name *********
+2022-09-01 22:15:59,227 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-01 22:15:59,265 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-01 22:16:01,278 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-01 22:16:01,782 - nopCommerce -INFO - ******** Started Login *********
+2022-09-01 22:16:09,122 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-01 22:16:10,824 - nopCommerce -INFO - ******** Click on logout link *********
+2022-09-01 22:16:10,836 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-01 22:16:10,914 - nopCommerce -INFO - ******** Closing Browser *********
+2022-09-01 22:16:12,523 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-01 22:16:12,523 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-01 22:16:14,460 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-01 22:16:14,884 - nopCommerce -INFO - ******** Started Login *********
+2022-09-01 22:16:21,542 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-01 22:16:23,205 - nopCommerce -INFO - ******** Click on logout link *********
+2022-09-01 22:16:23,213 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-01 22:16:23,288 - nopCommerce -INFO - ******** Closing Browser *********
+2022-09-01 22:16:24,773 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-01 22:16:24,788 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-01 22:16:28,180 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-01 22:16:28,552 - nopCommerce -INFO - ******** Started Login *********
+2022-09-01 22:16:30,241 - nopCommerce -INFO - ******** Login Passed *********
+2022-09-01 22:24:22,014 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-01 22:24:22,027 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-01 22:24:25,345 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-01 22:24:25,770 - nopCommerce -INFO - ******** Started Login *********
+2022-09-01 22:24:31,981 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-01 22:24:31,988 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-01 22:24:32,135 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-01 22:24:35,615 - nopCommerce -INFO - ******** Click on add new button *********
+2022-09-01 22:24:41,975 - nopCommerce -INFO - ******** Navigated to Add a new customer page *********
+2022-09-01 22:24:41,986 - nopCommerce -INFO - ******** Enter customer info *********
+2022-09-01 22:24:43,276 - nopCommerce -INFO - ******** Click on save button *********
+2022-09-01 22:24:45,586 - nopCommerce -INFO - ******** Confirmation message is displayed *********
+2022-09-01 22:24:46,126 - nopCommerce -INFO - ******** Closing Browser *********
+2022-09-01 22:24:48,339 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-01 22:24:48,342 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-01 22:24:50,605 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-01 22:24:51,023 - nopCommerce -INFO - ******** Started Login *********
+2022-09-01 22:24:59,924 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-01 22:25:01,541 - nopCommerce -INFO - ******** Click on logout link *********
+2022-09-01 22:25:01,550 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-01 22:25:01,628 - nopCommerce -INFO - ******** Closing Browser *********
+2022-09-01 22:29:13,982 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-01 22:29:13,993 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-01 22:29:16,495 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-01 22:29:16,907 - nopCommerce -INFO - ******** Started Login *********
+2022-09-01 22:29:24,556 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-01 22:29:24,562 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-01 22:29:24,868 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-01 22:29:26,802 - nopCommerce -INFO - ******** Enter customer email *********
+2022-09-01 22:29:27,781 - nopCommerce -INFO - ******** click search *********
+2022-09-01 22:29:29,916 - nopCommerce -INFO - ******** Seaching customer by email *********
+2022-09-01 22:29:31,497 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-01 22:29:31,511 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-01 22:29:34,377 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-01 22:29:34,752 - nopCommerce -INFO - ******** Started Login *********
+2022-09-01 22:29:42,069 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-01 22:29:42,075 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-01 22:29:42,687 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-01 22:29:44,362 - nopCommerce -INFO - ******** Enter customer firstname *********
+2022-09-01 22:29:45,351 - nopCommerce -INFO - ******** Enter customer lastname *********
+2022-09-01 22:29:45,431 - nopCommerce -INFO - ******** click search *********
+2022-09-01 22:29:47,564 - nopCommerce -INFO - ******** Seaching customer by name *********
+2022-09-01 22:29:49,289 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-01 22:29:49,301 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-01 22:29:51,471 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-01 22:29:51,853 - nopCommerce -INFO - ******** Started Login *********
+2022-09-01 22:30:00,810 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-01 22:30:02,699 - nopCommerce -INFO - ******** Click on logout link *********
+2022-09-01 22:30:02,718 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-01 22:30:02,825 - nopCommerce -INFO - ******** Closing Browser *********
+2022-09-01 22:30:04,196 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-01 22:30:04,215 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-01 22:30:06,527 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-01 22:30:06,922 - nopCommerce -INFO - ******** Started Login *********
+2022-09-01 22:30:08,517 - nopCommerce -INFO - ******** Login Passed *********
+2022-09-02 10:06:06,920 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 10:06:06,940 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 10:06:09,983 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 10:06:10,547 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 10:06:19,918 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-02 10:06:22,349 - nopCommerce -INFO - ******** Click on logout link *********
+2022-09-02 10:06:22,360 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-02 10:06:22,498 - nopCommerce -INFO - ******** Closing Browser *********
+2022-09-02 10:06:25,092 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 10:06:25,097 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 10:06:27,456 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 10:06:27,906 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 10:06:38,959 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-02 10:06:41,312 - nopCommerce -INFO - ******** Click on logout link *********
+2022-09-02 10:06:41,320 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-02 10:06:41,399 - nopCommerce -INFO - ******** Closing Browser *********
+2022-09-02 10:06:42,735 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 10:06:42,752 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 10:06:44,985 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 10:06:45,369 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 10:06:46,797 - nopCommerce -INFO - ******** Login Passed *********
+2022-09-02 18:03:35,146 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 18:03:35,201 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 18:03:40,269 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 18:03:40,661 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 18:03:48,292 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-02 18:03:48,353 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-02 18:03:48,537 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-02 18:03:49,914 - nopCommerce -INFO - ******** Enter customer email *********
+2022-09-02 18:03:51,060 - nopCommerce -INFO - ******** click search *********
+2022-09-02 18:03:53,218 - nopCommerce -INFO - ******** Seaching customer by email *********
+2022-09-02 18:03:56,155 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 18:03:56,197 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 18:03:58,729 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 18:03:59,157 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 18:04:06,452 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-02 18:04:06,457 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-02 18:04:06,695 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-02 18:04:08,610 - nopCommerce -INFO - ******** Enter customer firstname *********
+2022-09-02 18:04:09,797 - nopCommerce -INFO - ******** Enter customer lastname *********
+2022-09-02 18:04:09,895 - nopCommerce -INFO - ******** click search *********
+2022-09-02 18:04:12,102 - nopCommerce -INFO - ******** Seaching customer by name *********
+2022-09-02 18:04:13,954 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 18:04:14,014 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 18:04:15,482 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 18:04:15,890 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 18:04:22,447 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-02 18:04:24,295 - nopCommerce -INFO - ******** Click on logout link *********
+2022-09-02 18:04:24,308 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-02 18:04:24,404 - nopCommerce -INFO - ******** Closing Browser *********
+2022-09-02 18:04:25,935 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 18:04:25,958 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 18:04:28,536 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 18:04:28,975 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 18:04:30,301 - nopCommerce -INFO - ******** Login Passed *********
+2022-09-02 18:08:07,212 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 18:08:07,246 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 18:08:10,320 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 18:08:10,737 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 18:08:17,492 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-02 18:08:17,499 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-02 18:08:17,821 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-02 18:08:19,187 - nopCommerce -INFO - ******** Enter customer email *********
+2022-09-02 18:08:20,206 - nopCommerce -INFO - ******** click search *********
+2022-09-02 18:08:22,361 - nopCommerce -INFO - ******** Seaching customer by email *********
+2022-09-02 18:08:24,944 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 18:08:24,963 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 18:08:27,209 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 18:08:27,657 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 18:08:33,851 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-02 18:08:33,977 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-02 18:08:34,189 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-02 18:08:36,539 - nopCommerce -INFO - ******** Enter customer firstname *********
+2022-09-02 18:08:36,963 - nopCommerce -INFO - ******** Enter customer lastname *********
+2022-09-02 18:08:37,081 - nopCommerce -INFO - ******** click search *********
+2022-09-02 18:08:39,207 - nopCommerce -INFO - ******** Seaching customer by name *********
+2022-09-02 18:08:40,976 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 18:08:40,982 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 18:08:43,222 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 18:08:43,604 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 18:08:49,871 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-02 18:08:51,911 - nopCommerce -INFO - ******** Click on logout link *********
+2022-09-02 18:08:51,923 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-02 18:08:52,044 - nopCommerce -INFO - ******** Closing Browser *********
+2022-09-02 18:08:53,493 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 18:08:53,502 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 18:08:55,775 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 18:08:56,189 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 18:08:56,939 - nopCommerce -INFO - ******** Login Passed *********
+2022-09-02 18:14:38,587 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 18:14:38,600 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 18:14:42,115 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 18:14:42,569 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 18:14:49,081 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-02 18:14:49,090 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-02 18:14:49,664 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-02 18:14:51,036 - nopCommerce -INFO - ******** Enter customer email *********
+2022-09-02 18:14:52,222 - nopCommerce -INFO - ******** click search *********
+2022-09-02 18:14:54,394 - nopCommerce -INFO - ******** Seaching customer by email *********
+2022-09-02 18:14:58,770 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 18:14:58,853 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 18:15:01,446 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 18:15:01,832 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 18:15:08,339 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-02 18:15:08,349 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-02 18:15:08,640 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-02 18:15:11,672 - nopCommerce -INFO - ******** Enter customer firstname *********
+2022-09-02 18:15:11,946 - nopCommerce -INFO - ******** Enter customer lastname *********
+2022-09-02 18:15:12,022 - nopCommerce -INFO - ******** click search *********
+2022-09-02 18:15:14,159 - nopCommerce -INFO - ******** Seaching customer by name *********
+2022-09-02 18:15:16,712 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 18:15:17,173 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 18:15:19,738 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 18:15:20,201 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 18:15:26,926 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-02 18:15:29,192 - nopCommerce -INFO - ******** Click on logout link *********
+2022-09-02 18:15:29,203 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-02 18:15:29,336 - nopCommerce -INFO - ******** Closing Browser *********
+2022-09-02 18:15:31,579 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 18:15:31,723 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 18:15:34,273 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 18:15:34,674 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 18:15:35,741 - nopCommerce -INFO - ******** Login Passed *********
+2022-09-02 22:13:23,969 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 22:13:24,031 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 22:13:27,197 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 22:13:27,669 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 22:13:33,591 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-02 22:13:33,597 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-02 22:13:33,831 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-02 22:13:35,875 - nopCommerce -INFO - ******** Enter customer email *********
+2022-09-02 22:13:36,123 - nopCommerce -INFO - ******** click search *********
+2022-09-02 22:13:38,277 - nopCommerce -INFO - ******** Seaching customer by email *********
+2022-09-02 22:13:40,659 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 22:13:40,706 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 22:13:42,911 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 22:13:43,373 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 22:13:50,929 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-02 22:13:51,031 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-02 22:13:51,350 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-02 22:13:53,013 - nopCommerce -INFO - ******** Enter customer firstname *********
+2022-09-02 22:13:54,119 - nopCommerce -INFO - ******** Enter customer lastname *********
+2022-09-02 22:13:54,242 - nopCommerce -INFO - ******** click search *********
+2022-09-02 22:13:56,424 - nopCommerce -INFO - ******** Seaching customer by name *********
+2022-09-02 22:13:59,908 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 22:13:59,981 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 22:14:02,458 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 22:14:02,907 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 22:14:17,696 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-02 22:14:19,627 - nopCommerce -INFO - ******** Click on logout link *********
+2022-09-02 22:14:19,635 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-02 22:14:19,713 - nopCommerce -INFO - ******** Closing Browser *********
+2022-09-02 22:14:22,109 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-02 22:14:22,111 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-02 22:14:24,519 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-02 22:14:24,913 - nopCommerce -INFO - ******** Started Login *********
+2022-09-02 22:14:25,635 - nopCommerce -INFO - ******** Login Passed *********
+2022-09-03 13:08:53,975 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-03 13:08:53,994 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-03 13:08:57,623 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-03 13:08:58,401 - nopCommerce -INFO - ******** Started Login *********
+2022-09-03 13:09:05,775 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-03 13:09:05,791 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-03 13:09:05,982 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-03 13:09:11,194 - nopCommerce -INFO - ******** Enter customer email *********
+2022-09-03 13:09:12,165 - nopCommerce -INFO - ******** click search *********
+2022-09-03 13:09:14,382 - nopCommerce -INFO - ******** Seaching customer by email *********
+2022-09-03 13:09:19,684 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-03 13:09:19,686 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-03 13:09:22,263 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-03 13:09:22,837 - nopCommerce -INFO - ******** Started Login *********
+2022-09-03 13:09:30,073 - nopCommerce -INFO - ******** Opening Dashboard View *********
+2022-09-03 13:09:30,077 - nopCommerce -INFO - ******** Click customer menu *********
+2022-09-03 13:09:30,316 - nopCommerce -INFO - ******** Click on customer list *********
+2022-09-03 13:09:34,432 - nopCommerce -INFO - ******** Enter customer firstname *********
+2022-09-03 13:09:35,526 - nopCommerce -INFO - ******** Enter customer lastname *********
+2022-09-03 13:09:35,613 - nopCommerce -INFO - ******** click search *********
+2022-09-03 13:09:37,840 - nopCommerce -INFO - ******** Seaching customer by name *********
+2022-09-03 13:09:40,596 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-03 13:09:40,615 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-03 13:09:42,794 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-03 13:09:43,184 - nopCommerce -INFO - ******** Started Login *********
+2022-09-03 13:09:51,206 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-03 13:09:53,239 - nopCommerce -INFO - ******** Click on logout link *********
+2022-09-03 13:09:53,262 - nopCommerce -INFO - ******** Login Failed *********
+2022-09-03 13:09:53,373 - nopCommerce -INFO - ******** Closing Browser *********
+2022-09-03 13:09:55,406 - nopCommerce -INFO - ******** Launching Browser *********
+2022-09-03 13:09:55,421 - nopCommerce -INFO - ******** Opening URL *********
+2022-09-03 13:09:57,697 - nopCommerce -INFO - ******** Providing login details *********
+2022-09-03 13:09:58,053 - nopCommerce -INFO - ******** Started Login *********
+2022-09-03 13:09:58,881 - nopCommerce -INFO - ******** Login Passed *********

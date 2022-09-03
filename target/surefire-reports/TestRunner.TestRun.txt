@@ -1,0 +1,30 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner.TestRun
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 78.273 sec <<< FAILURE!
+Search Customer by EmailID(Customers)  Time elapsed: 33.483 sec  <<< FAILURE!
+java.lang.AssertionError: expected:<true> but was:<false>
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.failNotEquals(Assert.java:835)
+	at org.junit.Assert.assertEquals(Assert.java:120)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at stepDefinitions.steps.user_should_found_email_on_search_table(steps.java:172)
+	at ✽.user should found email on search table(file:///Users/rishabhbisht/Desktop/Automation/nopCommerce_Cucumber/./Features/Customers.feature:27)
+
+Search Customer by Name(Customers)  Time elapsed: 23.248 sec  <<< FAILURE!
+java.lang.AssertionError: expected:<true> but was:<false>
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.failNotEquals(Assert.java:835)
+	at org.junit.Assert.assertEquals(Assert.java:120)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at stepDefinitions.steps.user_should_found_name_on_search_table(steps.java:193)
+	at ✽.user should found Name on search table(file:///Users/rishabhbisht/Desktop/Automation/nopCommerce_Cucumber/./Features/Customers.feature:37)
+
+Successful login with Valid Credentials #3(Login)  Time elapsed: 5.658 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at stepDefinitions.steps.page_title_should_be(steps.java:66)
+	at ✽.Page title should be "Dashboard / nopCommerce administration"(file:///Users/rishabhbisht/Desktop/Automation/nopCommerce_Cucumber/./Features/Login.feature:20)
+
